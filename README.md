@@ -16,7 +16,9 @@
 
 Aşağıda X kesikli rastlantı değişkenine (rastgele değişken) ait olasılık fonksiyonu (PMF) verilmiştir.
 
-<img src = "question.jpg" alt = "Fonksiyon Denklemi" title = "Fonksiyon Denklemi" width = "600" height = "400" />
+<p align="center">
+<img src = "question.jpg" alt = "Fonksiyon Denklemi" title = "Fonksiyon Denklemi" width = "600" height = "150" />
+</p>
 
 <b>A)</b> k kaçtır?   
 
