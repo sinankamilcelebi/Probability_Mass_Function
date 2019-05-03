@@ -20,6 +20,8 @@ Aşağıda X kesikli rastlantı değişkenine (rastgele değişken) ait olasıl�
 <img src = "question.jpg" alt = "Fonksiyon Denklemi" title = "Fonksiyon Denklemi" width = "600" height = "150" />
 </p>
 
+Verilen bu olasılık fonksiyonuna göre:
+
 __A)__ k kaçtır?   
 
 __B)__ PMF'yi tablo şeklinde gösteriniz ve ayrık grafiğini çizdiriniz?
