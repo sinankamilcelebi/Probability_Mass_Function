@@ -20,22 +20,33 @@ Aşağıda X kesikli rastlantı değişkenine (rastgele değişken) ait olasıl�
 <img src = "question.jpg" alt = "Fonksiyon Denklemi" title = "Fonksiyon Denklemi" width = "600" height = "150" />
 </p>
 
-<b>A)</b> k kaçtır?   
+__A)__ k kaçtır?   
 
-<b>B)</b> PMF'yi tablo şeklinde gösteriniz ve ayrık grafiğini çizdiriniz?
+__B)__ PMF'yi tablo şeklinde gösteriniz ve ayrık grafiğini çizdiriniz?
 
-<b>C)</b> P(x = 2) kaçtır?
+__C)__ P(x = 2) kaçtır?
 
-<b>D)</b> P(2 < x) kaçtır?
+__D)__ P(2 < x) kaçtır?
 
-<b>E)</b> Beklenen değer kaçtır?
+__E)__ Beklenen değer kaçtır?
 
-<b>F)</b> Var(x) kaçtır?
+__F)__ Var(x) kaçtır?
 
-<b>G)</b> Standart sapma kaçtır?
+__G)__ Standart sapma kaçtır?
 
-<b>H)</b> Dağılım fonksiyonunu bulunuz? (Kümülatif (birikimli) olasılık dağılımını)
-
-
+__H)__ Dağılım fonksiyonunu bulunuz? (Kümülatif (birikimli) olasılık dağılımını)
 
 ## __Açıklamalar:__ 
+
+__A - B)__ ΣP(X = x) = 1 ve P(X = x) >= 0 olmalıdır.  
+
+__D)__ P(2 < x) = P(x = 3) + P(x = 4)   
+
+__E)__ E[X] = Σx * P(X=x) 
+
+__F)__ Var[X] = E[X ^ 2] - (E[X]) ^ 2    
+E[X ^ 2] = Σx ^ 2 * P(X = x)
+
+__G)__ Standart sapma = Karekök(Var(x))   
+
+__H)__ Dağılım fonksiyonu (Kümülatif olasılık dağılımı) oluşturulan PMF tablosuna veya ayrık grafiğinine göre olasılık değerlerinin toplanmasıyla elde edilir.
