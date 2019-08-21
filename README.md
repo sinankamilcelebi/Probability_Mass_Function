@@ -12,43 +12,41 @@
 * @date     : 03-May-2019
 * @brief    : Random Variables and Expectations Example.
 
-## __Örnek Soru:__ 
-
+## Örnek Soru:
 Aşağıda X kesikli rastlantı değişkenine (rastgele değişken) ait olasılık fonksiyonu (PMF) verilmiştir.
 
-<p align="center">
-<img src = "question.jpg" alt = "Fonksiyon Denklemi" title = "Fonksiyon Denklemi" width = "600" height = "150" />
+<p align = "center">
+<img src = "PMF_question.jpg" alt = "PMF Question" title = "PMF Question" width = "600" height = "150" />
 </p>
 
 Verilen bu olasılık fonksiyonuna göre:
 
-__A)__ k kaçtır?   
+<b>A)</b> k kaçtır?   
 
-__B)__ PMF'yi tablo şeklinde gösteriniz ve ayrık grafiğini çizdiriniz?
+<b>B)</b> PMF'yi tablo şeklinde gösteriniz ve ayrık grafiğini çizdiriniz?
 
-__C)__ P(x = 2) kaçtır?
+<b>C)</b> P(x = 2) kaçtır?
 
-__D)__ P(2 < x) kaçtır?
+<b>D)</b> P(2 < x) kaçtır?
 
-__E)__ Beklenen değer kaçtır?
+<b>E)</b> Beklenen değer kaçtır?
 
-__F)__ Var(x) kaçtır?
+<b>F)</b> Var(x) kaçtır?
 
-__G)__ Standart sapma kaçtır?
+<b>G)</b> Standart sapma kaçtır?
 
-__H)__ Dağılım fonksiyonunu bulunuz? (Kümülatif (birikimli) olasılık dağılımını)
+<b>H)</b> Dağılım fonksiyonunu bulunuz? (Kümülatif (birikimli) olasılık dağılımını)
 
-## __Açıklamalar:__ 
+## Açıklamalar: 
+<b>A - B)</b> ΣP(X = x) = 1 ve P(X = x) >= 0 olmalıdır.  
 
-__A - B)__ ΣP(X = x) = 1 ve P(X = x) >= 0 olmalıdır.  
+<b>D)</b> P(2 < x) = P(x = 3) + P(x = 4)   
 
-__D)__ P(2 < x) = P(x = 3) + P(x = 4)   
+<b>E)</b> E[X] = Σx * P(X = x) 
 
-__E)__ E[X] = Σx * P(X=x) 
-
-__F)__ Var[X] = E[X ^ 2] - (E[X]) ^ 2    
+<b>F)</b> Var[X] = E[X ^ 2] - (E[X]) ^ 2)    
 E[X ^ 2] = Σx ^ 2 * P(X = x)
 
-__G)__ Standart sapma = Karekök(Var(x))   
+<b>G)</b> Standart sapma = Karekök(Var(x))   
 
-__H)__ Dağılım fonksiyonu (Kümülatif olasılık dağılımı) oluşturulan PMF tablosuna veya ayrık grafiğinine göre olasılık değerlerinin toplanmasıyla elde edilir.
+<b>H)</b> Dağılım fonksiyonu (Kümülatif Olasılık Dağılımı) oluşturulan PMF tablosuna veya ayrık grafiğinine göre olasılık değerlerinin toplanmasıyla elde edilir.
