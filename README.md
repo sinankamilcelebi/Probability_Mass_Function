@@ -16,7 +16,7 @@
 Aşağıda X kesikli rastlantı değişkenine (rastgele değişken) ait olasılık fonksiyonu (PMF) verilmiştir.
 
 <p align = "center">
-<img src = "PMF_question.jpg" alt = "PMF Question" title = "PMF Question" width = "600" height = "150" />
+<img src = "PMF_question.jpg" alt = "PMF Question" title = "PMF Question" width = "500" height = "150" />
 </p>
 
 Verilen bu olasılık fonksiyonuna göre:
